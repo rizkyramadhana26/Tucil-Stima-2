@@ -29,6 +29,6 @@ pip install scipy
 1. Clone repository ini
 2. Masuk ke folder Tucil-Stima-2
 3. Jalankan perintah ```python src/main.py```
-4. Hasil eksekusi program berupa gambar akan terdapat folder result
+4. Hasil eksekusi program berupa gambar akan terdapat pada folder result
 
 
